@@ -49,4 +49,8 @@ if (empty($_POST["messagetext"])
     exit;
 } 
 
+    else {
+echo "Votre formulaire a été envoyé";
+}
+
 ?>
